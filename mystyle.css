@@ -1,0 +1,40 @@
+
+body{
+    background-color:   hsl(229, 6%, 66%);
+    font-size: 15px;
+    font-family: Poppins;
+
+}
+
+/* .Builder{
+    margin-left: 240px;
+}
+
+.svg{
+    margin-left: 240px;
+}
+
+.calculator-two{
+    margin-left: 240px;
+}
+
+.supervisor-one{
+    margin-left: 240px;
+} */
+
+@media(max-width: 768px){
+    .Supervisor{
+        position: relative;
+        bottom: 130px;
+    }
+
+    .Karma{
+        position: relative;
+        bottom: 19px;
+    }
+
+    .Team{
+        position: relative;
+        bottom: 100px;
+    }
+}
